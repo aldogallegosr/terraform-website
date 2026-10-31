@@ -1,0 +1,14 @@
+.terraform
+*.tfstate
+*.tfstate.backup
+*.terraform.tfvars
+*.hcl
+*.tfplan
+crash.log
+*.tfvars.json
+tfplan
+tfplan.*
+*.plan
+plan.out
+*.pem
+*.key
